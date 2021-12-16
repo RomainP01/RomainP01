@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Romain P</h1>
-<h3 align="center">A student fullstack developper</h3>
+<h3 align="center">A french student fullstack developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainp01&label=Profile%20views&color=7a0ff0&style=flat" alt="romainp01" /> </p>
 
