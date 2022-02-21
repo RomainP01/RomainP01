@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainp01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="romainp01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RomainP01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en" alt="romainp01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RomainP01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,issues&locale=en" alt="romainp01" /></p>
 
