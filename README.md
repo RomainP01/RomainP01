@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, I'm Romain P</h1>
 <h3 align="center">A french student fullstack developper</h3>
+<h4 align="center">Always learning and improving - Java Certified</h4>
 
 - 🔭 I’m currently working for **Decathlon**
 
-- 🌱 I’m currently learning **Java, Spring and other stuff**
+- 🌱 I’m currently learning **Quarkus**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React or Java**
 
 - 📫 How to reach me **romainpani01@gmail.com**
 
