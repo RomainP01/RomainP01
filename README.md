@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/romain pani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain pani" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/romain pani](https://www.linkedin.com/in/romain%E2%80%8E%E2%80%8E%E2%80%8E%E2%80%8E%E2%80%8E%E2%80%8E%E2%80%8E-%E2%80%8E%E2%80%8E-pani-528548197)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain pani" height="30" width="40" /></a>
 </p>
 <h3 align="left">🏆 Ranking : </h1>
 <a align="left" href="https://le-shaker.com/cbresult/"><p>- 353/1070 Shaker 2022 (RomainP01)</p></a>
