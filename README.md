@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Romain P</h1>
-<h3 align="center">A french student fullstack developper</h3>
+<h3 align="center">A french backend developper</h3>
 <h4 align="center">Always learning and improving - Java Certified</h4>
 
 - 🌱 I’m currently learning **Quarkus**
